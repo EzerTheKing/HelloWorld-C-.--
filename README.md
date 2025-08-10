@@ -13,6 +13,7 @@ Official web site Download (Linux):
 *Debian/Ubuntu: sudo apt update | sudo apt install build-essential
 
 *NixOS: environment.systemPackages = with pkgs; [
+    bazel
     gcc
     clang
   ];
