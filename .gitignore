@@ -1,0 +1,15 @@
+# Ignore compiled files
+
+# Ignore log files
+
+# Ignore files
+*.bazel-bin/
+*.bazel-HelloWorldC
+*.bazel-out
+*.bazel-testlogs
+
+# Ignore sensitive configuration files
+
+# Ignore IDE-specific files
+
+# Hello World Bro Ignore :)
