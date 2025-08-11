@@ -26,6 +26,8 @@ git clone https://github.com/EzerTheKing/HelloWorld-C-.--.git
 ## Build Code:
 ```
 bazel query "//:*"
+
+bazel build //...
 ```
 ## Result:
 ```
